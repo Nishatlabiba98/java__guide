@@ -47,7 +47,7 @@ git config --global user.email "you@example.com"
 
 ### SSH
 
-Many workplaces — including here — require you to clone over SSH rather than HTTPS, as an added layer of security (no typing passwords/tokens, access is tied to a key on your machine). Set it up once:
+Many workplaces require you to clone over SSH rather than HTTPS, as an added layer of security (no typing passwords/tokens, access is tied to a key on your machine). Set it up once:
 
 ```
 ssh-keygen -t ed25519 -C "you@example.com"
