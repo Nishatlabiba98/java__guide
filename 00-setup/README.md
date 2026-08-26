@@ -61,7 +61,7 @@ ssh -T git@github.com
 
 Once that works, clone using the SSH URL (`git@github.com:org/repo.git`) instead of the HTTPS one.
 
-Section [11 — Git and Code Review](../11-git-and-code-review/README.md) goes deeper into branching and PR etiquette; for now you just need clone/branch/commit/push working end to end.
+Section [13 — Git and Code Review](../13-git-and-code-review/README.md) goes deeper into branching and PR etiquette; for now you just need clone/branch/commit/push working end to end.
 
 ### Merge conflicts, rebase, stash, and patches
 
